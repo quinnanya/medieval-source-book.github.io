@@ -9,7 +9,7 @@ header:
 date_updated: 2021-04-30
 ---
 
-The Global Medieval Sourcebook (GMS) presents 100 texts, spanning one thousand years (600-1600 CE) and in 25 different languages. For each text in the compendium, the GMS offers a brief introduction, a transcription from a manuscript, incunabulum or published edition of the premodern source, and a new English translation. Texts are presented in a parallel display showing their original language and a new English translation.
+The Global Medieval Sourcebook (GMS) presents 100 texts, spanning one thousand years (600-1600 CE) and in 25 different languages. For each text in the compendium, the GMS offers a brief introduction, a transcription from a manuscript, incunabulum or published edition of the premodern source, and a new English translation. Texts are presented in a parallel display showing their original language and a new English translation. 
 
 The introduction to each text is written by a researcher in the field and aims to be scholarly yet accessible, providing a commentary on the text's cultural context and transmission history as well as its content and the scholarly conversation around it. We provide brief bibliographies as a starting point to further research. In order to reach non-specialists, we have focused our selected bibliographies on English-language literature. In many cases, however, the majority of scholarship on the texts featured in the GMS is not in English. We have not attempted to cover or synthesize this scholarship comprehensively.
 
